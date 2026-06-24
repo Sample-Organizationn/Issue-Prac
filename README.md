@@ -3,4 +3,4 @@ prac edited now
 now not again
 ideal
 it is
-even
+even or odd
